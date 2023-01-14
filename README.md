@@ -2,7 +2,7 @@
 Open Source Bio-signal Amplifier
 
 ### OBJECTIVES:
-<P align="justify"> The objective of this project is to develop a wearable bio signal amplifier for sensing physiological signals.
+<P align="justify"> The objective of this project is to develop a wearable bio-signal amplifier for sensing physiological signals.
 
 ### CONTACT:
 Dr. Monzurul Alam <br/>
