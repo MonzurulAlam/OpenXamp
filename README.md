@@ -9,10 +9,8 @@ Open Source Bio-signal Amplifier
 
 ![Block-Diagram](https://github.com/RehabExo/OpenExoAmp/blob/main/BlockDiagram.png)
 
-### OPENINGS:
-We are looking for engineering interns to help in the development of the amplifier. <br/>  
-  
 ### CONTACT:
+If you are interested to contribute to the project, please contact: <br/>  
 RehabExo Pty Ltd <br/>
 Website: www.rehabexo.com <br/>
 Email: contact@rehabexo.com <br/>
