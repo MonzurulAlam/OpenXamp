@@ -11,6 +11,5 @@ Open Source Bio-signal Amplifier
 
 ### CONTACT:
 If you are interested to contribute to the project, please contact: <br/>  
-RehabExo Pty Ltd <br/>
-Website: www.rehabexo.com <br/>
-Email: contact@rehabexo.com <br/>
+www.rehabexo.com <br/>
+contact@rehabexo.com <br/>
