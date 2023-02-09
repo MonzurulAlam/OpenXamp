@@ -11,6 +11,6 @@ Open Source Bio-signal Amplifier
 
 ### CONTACT:
 If you are interested to contribute to the project, please contact: <br/>  
-![RehabExo-Logo](https://github.com/RehabExo/OpenExoAmp/blob/main/RehabExo_Logo.png =100x100)
+<img src="https://github.com/RehabExo/OpenExoAmp/blob/main/RehabExo_Logo.png" width="100" height="100">
 www.rehabexo.com <br/>
 contact@rehabexo.com <br/>
