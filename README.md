@@ -5,7 +5,7 @@ Open Source Bio-signal Amplifier
 <P align="justify"> The objective of this project is to develop an wireless bio-signal amplifier for sensing physiological signals.
 
 ### DESCRIPTION:
-<P align="justify"> Block diagram of an open sournce amplifier (OpenExoAmp) for bio-signal filtering and amplification. The amplifier is built with commercially-off-the-shelf components and powered by a pair of batteries. A notch-filter allows to filter out the line frequency (50 or 60 Hz) noise. The band-passed filtered signal is amplified and digitized by an ADC with integrated PGA before sending through serial network.
+<P align="justify"> Block diagram of an open source amplifier (OpenExoAmp) for bio-signal amplification and filtering. The amplifier is built with commercially-off-the-shelf components and powered by a pair of batteries. A pre-amplifier section with high common-mode-rejection-ratio (CMRR) is used to differencially pick the bio-signal. If differential input is not required, the inverting input can be shorted with the input reference terminal. The signal is then band-passed filtered and amplified with a programmable gain amplifier (PGA). The the gain of the PGA is controlled by a microcontroller (MCU). The final signal is then digitized by an analog-to-digital converter (ADC) and transfered through serial network (USB).
 
 ![Block-Diagram](https://github.com/RehabExo/OpenExoAmp/blob/main/BlockDiagram.png)
 
