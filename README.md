@@ -10,7 +10,7 @@ Bio-signal Amplifier
 ![Block-Diagram](https://github.com/RehabExo/OpenExoAmp/blob/main/BlockDiagram.png)
 
 ### LICENSE:
-The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. <br/><br/>
+The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please read the License Agreement for details. <br/><br/>
 <img src="https://github.com/RehabExo/OpenExoAmp/blob/main/by-nc-sa.png" width="135" height="47"><br/>
 
 ### CONTACT:
