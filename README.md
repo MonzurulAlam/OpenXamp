@@ -9,12 +9,12 @@ Bio-signal Amplifier
 
 ![Block-Diagram](https://github.com/RehabExo/OpenExoAmp/blob/main/BlockDiagram.png)
 
-### LICENSE:
-The project files are shared under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please read the License Agreement for details. <br/><br/>
-<img src="https://github.com/RehabExo/OpenExoAmp/blob/main/by-nc-sa.png" width="135" height="47"><br/>
+### DISCLAIMER:
+<P align="justify"> The design is offered as it is. Although it has been regorously tested with utmost care and to the best of my knowledge, I do not provide any warranty in any aspect.
 
-### CONTACT:
-If you are interested to contribute to the project, please contact: <br/>  
-<img src="https://github.com/RehabExo/OpenExoAmp/blob/main/RehabExo_web.jpeg" width="210" height="70"> <br/>  
-www.rehabexo.com <br/>
-contact@rehabexo.com <br/>
+### WARNING:
+- The design is intended stricktly for research and education purposes.
+- The stimulator is not approved for human or animal use without receving prior approval from a local ethics committee such as Institutional Review Board.
+
+### LICENSE:
+##### Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
